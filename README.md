@@ -26,4 +26,3 @@ Personal Info.
 ![TABLEAU](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/7828ad97-6403-4eeb-841e-006f45a32b2c)
 ![powerbi](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/11e31cbf-2e75-43ab-9917-e1640058158d)
 ![AWS](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/9b4dc934-2ece-4c58-aa2a-6c5b3b7d0d7b)
-![AZURE](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/e3fbfe54-0fc5-450e-a99a-eed93be6ca8b)
