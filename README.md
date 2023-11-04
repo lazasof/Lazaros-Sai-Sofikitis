@@ -13,7 +13,7 @@ Personal Info.<br>
 - feature Engineering
 - Microsoft Azure and Amazon Web Services
 - Microsoft SQL Server, PostgreSql, MySQL, SQLite, MongoDB
-- CI/CD (Teamcity , Octopus , Github actions)
+- CI/CD 
 - Docker, Kubernetes
 - Gitlab, Github<br>
 
