@@ -1,9 +1,8 @@
 # Lazaros-Sai-Sofikitis
 Personal Info.
-
 🏠 My name is Lazaros Sai Sofikitis and I live in Greece.  <br>
 💻 I am a Data Scientist<br>
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lazaros-sai-sofikitis-a2b255158/).<br>  
+📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lazaros-sai-sofikitis-a2b255158/)
 🌱 I’m currently expanding my knowledge in the field on decision making<br>
 💡 I enjoy reading about technology and Math, currently learning Lie and Abstract Algebra.  <br>
 
