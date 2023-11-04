@@ -1,22 +1,23 @@
 # Lazaros-Sai-Sofikitis
 Personal Info
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![PANDAS](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/6afb7d52-efc4-41a5-8894-c0abc2f58f6d)
+![SCIKIT](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/663d7fc5-a744-466b-800c-59068159d447)
+![TENSORFLOW](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/f6f1eeab-a5a3-4506-a31e-e05e31cb9068)
 
 🏠 My name is Lazaros Sai Sofikitis and I live in Greece.  
-💻 I work as a software engineer (remote) at Betsson, one of the world's largest gaming groups.  
+💻 I am a Data Scientist
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lazaros-sai-sofikitis-a2b255158/).  
-🌱 I’m currently learning many things, as I believe that every day is a learning opportunity. I strive to keep up with the latest technologies and continuously improve.  
-💡 I enjoy reading about technology and finance.  
+🌱 I’m currently expanding my knowledge in the field on decision making
+💡 I enjoy reading about technology and Math, currently learning Lie and Abstract Algebra.  
+
 👨‍💻 I have experience with the following:
+
 - Python 
 - Machine Learning
 - Data Analysis
 - feature Engineering
 - Microsoft Azure and Amazon Web Services
-- Microsoft SQL Server, PostgreSql, MySQL, SQLite
+- Microsoft SQL Server, PostgreSql, MySQL, SQLite, MongoDB
 - CI/CD (Teamcity , Octopus , Github actions)
 - Docker, Kubernetes
-- Git
 - Gitlab, Github
