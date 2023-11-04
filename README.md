@@ -18,6 +18,13 @@ Personal Info.
 - CI/CD (Teamcity , Octopus , Github actions)
 - Docker, Kubernetes
 - Gitlab, Github<br>
-![PANDAS](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/6afb7d52-efc4-41a5-8894-c0abc2f58f6d) 
-![TENSORFLOW](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/f6f1eeab-a5a3-4506-a31e-e05e31cb9068)<br>
-![PYTHON](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/290e9284-d76e-4428-8ecc-d7aff7b911da)<br>
+
+![PYTHON](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/cea32363-5806-4de5-8a20-b60f777eb0b8)
+![PANDAS](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/6e3a44eb-d1cf-4118-8a31-5af49c3bf06e)
+![SCIKIT](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/cd4ca852-c37b-4ff3-8757-c64ec76a7b7f)
+![TENSORFLOW](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/6256ab02-c31b-40ff-8c15-8c691feb1fb0)
+![POSTGRESQL](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/d0eb0b98-2d63-4f8e-8b83-b201b2038629)
+![TABLEAU](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/7828ad97-6403-4eeb-841e-006f45a32b2c)
+![powerbi](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/11e31cbf-2e75-43ab-9917-e1640058158d)
+![AWS](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/9b4dc934-2ece-4c58-aa2a-6c5b3b7d0d7b)
+![AZURE](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/e3fbfe54-0fc5-450e-a99a-eed93be6ca8b)
