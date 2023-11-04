@@ -19,7 +19,6 @@ Personal Info.
 - Docker, Kubernetes
 - Gitlab, Github<br>
 
-![PYTHON](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/cea32363-5806-4de5-8a20-b60f777eb0b8)
 ![PANDAS](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/6e3a44eb-d1cf-4118-8a31-5af49c3bf06e)
 ![SCIKIT](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/cd4ca852-c37b-4ff3-8757-c64ec76a7b7f)
 ![TENSORFLOW](https://github.com/lazasof/Lazaros-Sai-Sofikitis/assets/40027330/6256ab02-c31b-40ff-8c15-8c691feb1fb0)
